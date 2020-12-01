@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
 function Home() {
-    return <dev > Home 2 <
+    return <dev > Pais de Alice <
         /dev>
 
 }
